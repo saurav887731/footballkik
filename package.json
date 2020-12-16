@@ -1,0 +1,38 @@
+{
+  "name": "footballkik",
+  "version": "1.0.0",
+  "description": "A chat application built with node,mongodb,express and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurav887731/footballkik.git"
+  },
+  "author": "Saurav Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurav887731/footballkik/issues"
+  },
+  "homepage": "https://github.com/saurav887731/footballkik#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "connect-mongo": "^3.2.0",
+    "cookie-parser": "^1.4.5",
+    "dependable": "^1.1.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-promise-router": "^4.0.1",
+    "express-session": "^1.17.1",
+    "express-validator": "^6.8.0",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.11.7",
+    "nodemon": "^2.0.6",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  }
+}
